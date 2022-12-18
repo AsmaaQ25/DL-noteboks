@@ -1,2 +1,2 @@
 # DL-noteboks
-projects of class DL-CISC867
+projects of class Deep Learning-CISC867 and Machine Learning-CSAI801
